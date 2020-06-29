@@ -2,9 +2,13 @@
 
 * Create a script that looped through all the stocks for one year for each run baased on 
 
-* The ticker symbol.
 
+
+
+  * Ticker symbol
+  
   * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+   
 
   * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
